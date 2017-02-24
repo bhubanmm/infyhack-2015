@@ -1,0 +1,4 @@
+Problem Statement:
+We met an Infoscion
+who stays far away from Infosys Campus and while driving is always preoccupied by the thought "Where will I get a Parking space today?"
+It would be a life saving if he could get a "Friend" near the Gate who could inform that there is a parking space available at Park Area 2 which is nearer to your building.
