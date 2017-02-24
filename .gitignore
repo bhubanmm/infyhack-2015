@@ -1,0 +1,11 @@
+
+src/ImageProcessor/bin
+src/ImageProcessor/obj
+src/ImageProcWin/ImageProcWin/bin
+src/ImageProcWin/ImageProcWin/obj
+src/VideoFeed/.vs
+src/VideoFeed/VideoFeed.v12.suo
+src/VideoFeed/VideoFeed/obj
+src/VideoFeed/VideoFeed/bin
+src/ImageProcWin/ImageProcWin.v12.suo
+src/ImageProcessor/ImageProcessor.v12.suo
